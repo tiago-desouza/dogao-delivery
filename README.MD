@@ -3,7 +3,16 @@
 
 This is a backend system for ordering food.
 
+## Feature
+[X] - Develop the architecture and functional system
 
+[ ] - Add unit and integration tests
+
+[ ] - add Authentication and Authorization
+
+[ ] - Add documentation
+
+[ ] - Modify architecture for microservice
 
 ## Documentation
 
